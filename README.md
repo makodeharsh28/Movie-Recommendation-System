@@ -25,8 +25,8 @@ Getting Started:
 > Receive movie recommendations based on the input.
 
 Note:
-> The effectiveness of recommendations may vary based on the quality and quantity of the dataset used.
-> Further optimization and fine-tuning can be done to enhance recommendation accuracy.
+The effectiveness of recommendations may vary based on the quality and quantity of the dataset used.
+Further optimization and fine-tuning can be done to enhance recommendation accuracy.
 
 Contributors:
 [Harsh Makode]
